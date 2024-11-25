@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/primeraapp/static/css/main.f855e6bc.css",
-    "main.js": "/primeraapp/static/js/main.eafda515.js",
-    "static/js/453.89792185.chunk.js": "/primeraapp/static/js/453.89792185.chunk.js",
-    "static/media/logo.svg": "/primeraapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/primeraapp/index.html",
-    "main.f855e6bc.css.map": "/primeraapp/static/css/main.f855e6bc.css.map",
-    "main.eafda515.js.map": "/primeraapp/static/js/main.eafda515.js.map",
-    "453.89792185.chunk.js.map": "/primeraapp/static/js/453.89792185.chunk.js.map"
+    "main.css": "/prueba/static/css/main.f855e6bc.css",
+    "main.js": "/prueba/static/js/main.3582e444.js",
+    "static/js/453.89792185.chunk.js": "/prueba/static/js/453.89792185.chunk.js",
+    "static/media/logo.svg": "/prueba/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/prueba/index.html",
+    "main.f855e6bc.css.map": "/prueba/static/css/main.f855e6bc.css.map",
+    "main.3582e444.js.map": "/prueba/static/js/main.3582e444.js.map",
+    "453.89792185.chunk.js.map": "/prueba/static/js/453.89792185.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.eafda515.js"
+    "static/js/main.3582e444.js"
   ]
 }
